@@ -1,0 +1,66 @@
+#header{
+    width:100%; 
+}
+#headerContent{
+    margin: 50 auto; width: 800px;
+}
+.skoliafrock {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+    padding-left: 50px
+}
+.bodytexti {
+    color:red
+}
+madeup {
+    color:red;
+}
+h1 {
+  color: blue;
+  text-align:  center
+}
+.undir {
+    color: maroon;
+}
+.imagine {
+    color: maroon;
+}
+.midlagid {
+    margin-left: 50px
+}
+.konungurrokksins {
+   color:red;
+   text-align: center
+}
+ul {
+    color: green
+}
+strong {
+    color: red
+}
+em {
+    color: blue
+}
+.loremipsum {
+    
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: purple;
+}
+a:active {
+  color: lightblue;
+} 
+.neque {
+    text-align: center;
+}
+.cliche {
+    text-align: center;
+}
+.loremipsum {
+    text-align: center;
+}

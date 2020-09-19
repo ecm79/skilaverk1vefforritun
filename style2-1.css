@@ -1,0 +1,39 @@
+
+.box {
+    border: 1px solid black;
+    width: 40%;
+    float: left;
+}
+.box2 {
+    border: 1px solid black;
+    width: 30%;
+    float: left;
+}
+.warningbox {
+    border: 1px solid black;
+    width: 70.2%;
+    float: left;
+}
+.ell {
+    font-size: 52px;
+    margin: 20px;
+    float: left;
+}
+.descriptor1 {
+    font-size: 20px;
+    margin: 10px;
+}
+.descriptor2 {
+    font-size: 20px;
+    margin: 10px;
+}
+.ylwlabel{
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow
+}
+.catimg {
+    float:right;
+    width: 135px
+    
+}

@@ -1,0 +1,40 @@
+h1.Modelid {
+    border: 3px solid green 
+}
+h1.BoxModel1 {
+    border: 3px solid green;
+}
+h1.BoxModel2 {
+    border: 3px dashed blue;
+}
+.verk22 {
+    font-weight: bold;
+    
+}
+div.Model {
+    border: 3px solid red;
+    margin: 1em;
+    padding: 1em;
+}
+.bil {
+    padding: 40px;
+    margin: 50px;
+}
+ul.block {
+    display: block;
+    padding: 1em;
+    margin: 1em;
+    border: 2px dashed green;
+}
+ul.inline {
+    display: inline;
+    padding: 1em;
+    margin: 1em;
+    border: 2px dashed blue;
+}
+ul.inline-block {
+    display:inline-block;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed red;
+}
